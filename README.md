@@ -6,7 +6,8 @@ Welcome to my DSA practice repository! Here are my current LeetCode stats:
 
 ### 🧮 My LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/aadityaraj912739?theme=dark&font=baloo)
+![Leetcode Stats](https://leetcard.jacoblin.cool/ar912739?ext=heatmap)
+
 
 ---
 
