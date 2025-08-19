@@ -49,7 +49,6 @@ class Solution {
             cur = cur.next;
         }
         ListNode reverse = reverse(dh);
-        ListNode h1 = reverse;
-        return h1.next;
+        return reverse.next;
     }
 }
