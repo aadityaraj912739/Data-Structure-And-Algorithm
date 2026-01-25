@@ -1,39 +1,28 @@
 class Solution {
     public int findLucky(int[] arr) {
+        HashMap<Integer,Integer> map = new HashMap<>();
         int i = 0;
         int n = arr.length;
-        HashMap<Integer,Integer>map = new HashMap<>();
         while(i < n){
-            int val = arr[i];
-            if(!map.containsKey(val)){
-                map.put(val,1);
+            if(!map.containsKey(arr[i])){
+                map.put(arr[i],1);
             }else{
-                map.put(val,map.get(val)+1);
+                map.put(arr[i],map.get(arr[i])+1);
             }
             i++;
         }
+        int min =  Integer.MIN_VALUE;
+        int ans = -1;
         int j = 0;
-        int count = 0;
-        int max = Integer.MIN_VALUE;
         while(j < n){
-            if(!map.containsKey(arr[j])){
-                j++;
-                continue;
-            }
-            int val = map.get(arr[j]);
-            if(arr[j] == val){
-                map.remove(arr[j]);
-                count++;
-                if(max < arr[j]){
-                    max = arr[j];
+            if(arr[j] == map.get(arr[j])){
+                if(arr[j] > ans){
+                    ans  = arr[j];
                 }
             }
             j++;
         }
-        if(count == 0){
-            return -1;
-        }else{
-            return max;
-        }
+        return ans;
+
     }
 }
