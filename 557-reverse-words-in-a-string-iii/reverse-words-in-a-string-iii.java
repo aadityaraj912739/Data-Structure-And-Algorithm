@@ -1,32 +1,29 @@
 class Solution {
-    public static String reverse(String str){
-        Stack<Character>stack = new Stack();
+    public static String rsw(String str) {
         int i = 0;
         int n = str.length();
-        while(i < n){
-            char ch = str.charAt(i);
-            stack.push(ch);
+        int j = n - 1;
+        char[] str1 = str.toCharArray();
+        while (i < j) {
+            char temp = str1[i];
+            str1[i] = str1[j];
+            str1[j] = temp;
             i++;
+            j--;
         }
-        StringBuilder sb = new StringBuilder();
-        while(!stack.isEmpty()){
-            char ch = stack.pop();
-            sb.append(ch);
-        }
-        return sb.toString();
+
+        String ans = new String(str1);
+        return ans;
     }
+
     public String reverseWords(String s) {
-        String[] wordArray = s.split(" ");
-        int j = 0;
-        int m = wordArray.length;
-        while(j < m){
-            wordArray[j] = reverse(wordArray[j]);
-            j++;
+        String[] words = s.split(" ");
+        int k = 0;
+        int m = words.length;
+        while (k < m) {
+            words[k]=rsw(words[k]);
+            k++;
         }
-        StringBuilder sb1 = new StringBuilder();
-        for(String s1 : wordArray){
-            sb1.append(s1).append(" ");
-        }
-        return sb1.toString().trim();
+         return String.join(" ", words);
     }
 }
