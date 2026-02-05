@@ -12,21 +12,19 @@ class Solution {
     public boolean isPalindrome(ListNode head) {
         Stack<Integer> stack = new Stack();
         ListNode tra = head;
+        ListNode com = head;
         while(tra != null){
             stack.push(tra.val);
             tra = tra.next;
         }
 
-
-        ListNode agn = head;
-        while(agn != null){
-            int pop = stack.pop();
-            if(pop != agn.val){
+        while(com != null){
+            
+            if(com.val != stack.pop()){
                 return false;
             }
-            agn = agn.next;
+            com = com.next;
         }
-
         return true;
     }
 }
