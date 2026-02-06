@@ -18,11 +18,12 @@ class Solution {
             if(cur != null && !set.contains(cur.val) ){
                 set.add(cur.val);
                 prev = cur;
-                cur = cur.next;
+                
             }else{
                 prev.next = cur.next;
-                cur = cur.next;
+                
             }
+            cur = cur.next;
             
         }
         return head;
