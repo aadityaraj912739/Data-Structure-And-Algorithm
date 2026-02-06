@@ -11,23 +11,24 @@
  */
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
+        ListNode tra1 = headA;
+        ListNode tra2 = headB;
         HashSet<ListNode> set = new HashSet<>();
-        ListNode traA = headA;
-        while(traA != null){
-            if(!set.contains(traA)){
-                set.add(traA);
+        while(tra1 != null){
+            if(!set.contains(tra1)){
+                set.add(tra1);
             }
-            traA = traA.next;
-        }
-        ListNode traB = headB;
-        while(traB != null){
-            if(set.contains(traB)){
-                ListNode ans = traB;
-                return ans;
-            }
-            traB = traB.next;
+            tra1 = tra1.next;
         }
 
+        while(tra2 != null){
+            if(!set.contains(tra2)){
+                set.add(tra2);
+            }else{
+                return tra2;
+            }
+            tra2 = tra2.next;
+        }
         return null;
     }
 }
