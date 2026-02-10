@@ -4,16 +4,16 @@ class Solution {
         int n = arr.length;
         int j = 0;
         int sum = 0;
-        int count = 0;
+        int count  = 0;
         while(j < n){
-            sum +=arr[j];
+            sum = sum + arr[j];
             if(j - i + 1 > k){
                 sum = sum - arr[i];
                 i++;
             }
+
             if(j - i + 1 == k){
-                int avg = sum/k;
-                if(avg >= threshold){
+                if(sum/k >= threshold){
                     count++;
                 }
             }
