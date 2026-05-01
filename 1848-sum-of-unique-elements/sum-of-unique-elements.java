@@ -13,13 +13,12 @@ class Solution {
             i++;
         }
 
-        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
-            Integer freq = entry.getValue();
-            Integer value = entry.getKey();
-            if (freq == 1) {
-                sum = sum + value;
+        int j = 0;
+        while(j < n){
+            if(map.containsKey(nums[j]) && map.get(nums[j]) == 1){
+                sum = sum + nums[j];
             }
-
+            j++;
         }
         return sum;
     }
