@@ -1,8 +1,9 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        HashMap<Integer, Integer> map = new HashMap<>();
         int i = 0;
         int n = nums.length;
+        int max = 0;
+        HashMap<Integer, Integer> map = new HashMap<>();
         while (i < n) {
             if (!map.containsKey(nums[i])) {
                 map.put(nums[i], 1);
@@ -11,12 +12,13 @@ class Solution {
             }
             i++;
         }
-        int maj = n / 2;
-        int ans = -1;
         int j = 0;
+        int ans = 0;
         while(j < n){
-            if(map.get(nums[j]) > maj){
-                return nums[j];
+            int freq = map.get(nums[j]);
+            if(max < freq){
+                max = freq;
+                ans = nums[j];
             }
             j++;
         }
