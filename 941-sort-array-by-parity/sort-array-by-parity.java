@@ -1,28 +1,30 @@
 class Solution {
     public int[] sortArrayByParity(int[] nums) {
-        int n = nums.length;
         int i = 0;
-        int[] ans = new int[n];
-        int j = 0;
-        HashSet<Integer> set = new HashSet<>();
+        int n = nums.length;
+        Stack<Integer> s = new Stack();
         while(i < n){
             if(nums[i] % 2 == 0){
-                ans[j] = nums[i];
-                set.add(i);
-                j++;
+                s.push(nums[i]);
             }
             i++;
         }
-        int k = 0;
-        while(k < n && j < n){
-            if(!set.contains(k)){
-                ans[j] = nums[k];
-                j++;
-            }
-            k++;
-            
+        int j = 0;
+        int [] arr = new int[n];
+        int k = s.size();
+        while(j < n && !s.isEmpty()){
+            arr[j] = s.pop();
+            j++; 
         }
-        return ans;
-        
+        int p = 0;
+        while(k < n && p < n){
+            if(nums[p] % 2 != 0){
+                arr[k] = nums[p];
+                k++;
+            }
+            p++;
+        }
+        return arr;
+
     }
 }
