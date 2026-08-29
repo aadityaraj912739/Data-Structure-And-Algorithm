@@ -20,6 +20,7 @@ Welcome to my DSA practice repository! Here are my current LeetCode stats:
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0058-length-of-last-word](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0058-length-of-last-word/) | Easy |
 | [0242-valid-anagram](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0242-valid-anagram/) | Easy |
 | [3110-score-of-a-string](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/3110-score-of-a-string/) | Easy |
 ## Hash Table
