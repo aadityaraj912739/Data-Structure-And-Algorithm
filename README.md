@@ -35,4 +35,5 @@ Welcome to my DSA practice repository! Here are my current LeetCode stats:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0896-monotonic-array](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0896-monotonic-array/) | Easy |
+| [3151-special-array-i](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/3151-special-array-i/) | Easy |
 <!---LeetCode Topics End-->
