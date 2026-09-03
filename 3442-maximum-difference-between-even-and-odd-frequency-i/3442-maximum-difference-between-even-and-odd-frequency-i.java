@@ -11,7 +11,7 @@ class Solution {
             }
             i++;
         }
-        int maxEven = 2147483647;
+        int maxEven = Integer.MAX_VALUE;
         int maxOdd = 0;
         for (Integer value : map.values()) {
             if(value % 2 == 0){
