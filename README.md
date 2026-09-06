@@ -22,6 +22,7 @@ Welcome to my DSA practice repository! Here are my current LeetCode stats:
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0058-length-of-last-word/) | Easy |
 | [0242-valid-anagram](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0242-valid-anagram/) | Easy |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [3110-score-of-a-string](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/3110-score-of-a-string/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 ## Hash Table
