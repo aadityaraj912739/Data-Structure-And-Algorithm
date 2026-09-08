@@ -29,15 +29,18 @@ Welcome to my DSA practice repository! Here are my current LeetCode stats:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0242-valid-anagram/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0242-valid-anagram/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0724-find-pivot-index](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0724-find-pivot-index/) | Easy |
 | [0896-monotonic-array](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0896-monotonic-array/) | Easy |
