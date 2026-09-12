@@ -28,6 +28,7 @@ Welcome to my DSA practice repository! Here are my current LeetCode stats:
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0242-valid-anagram/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
@@ -35,11 +36,13 @@ Welcome to my DSA practice repository! Here are my current LeetCode stats:
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0242-valid-anagram/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0229-majority-element-ii/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0724-find-pivot-index](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0724-find-pivot-index/) | Easy |
@@ -53,10 +56,15 @@ Welcome to my DSA practice repository! Here are my current LeetCode stats:
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0229-majority-element-ii/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2206-divide-array-into-equal-pairs](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0229-majority-element-ii](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
