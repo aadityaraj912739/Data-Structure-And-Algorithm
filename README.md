@@ -32,6 +32,7 @@ Welcome to my DSA practice repository! Here are my current LeetCode stats:
 | [0229-majority-element-ii](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0242-valid-anagram/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
@@ -51,6 +52,7 @@ Welcome to my DSA practice repository! Here are my current LeetCode stats:
 | [0485-max-consecutive-ones](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0724-find-pivot-index](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0724-find-pivot-index/) | Easy |
 | [0896-monotonic-array](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0896-monotonic-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [3151-special-array-i](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/3151-special-array-i/) | Easy |
@@ -63,6 +65,7 @@ Welcome to my DSA practice repository! Here are my current LeetCode stats:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0229-majority-element-ii/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
@@ -77,5 +80,6 @@ Welcome to my DSA practice repository! Here are my current LeetCode stats:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1512-number-of-good-pairs](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 <!---LeetCode Topics End-->
