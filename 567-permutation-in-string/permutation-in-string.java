@@ -1,7 +1,6 @@
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
-        HashMap<Character,Integer> map1 = new HashMap<>();
-        HashMap<Character,Integer> map2 = new HashMap<>();
+        HashMap<Character,Integer>map1 = new HashMap<>();
         int i = 0;
         int n = s1.length();
         while(i < n){
@@ -12,24 +11,29 @@ class Solution {
             }
             i++;
         }
+        int k = 0;
         int j = 0;
-        int i1 = 0;
         int m = s2.length();
-        while(j < m){
+        if(n > m){
+            return false;
+        }
+        HashMap<Character,Integer>map2 = new HashMap<>();
+        while(k < m && j < m){
             if(!map2.containsKey(s2.charAt(j))){
                 map2.put(s2.charAt(j),1);
             }else{
                 map2.put(s2.charAt(j),map2.get(s2.charAt(j))+1);
             }
-            if(j - i1 + 1 > n){
-                map2.put(s2.charAt(i1),map2.get(s2.charAt(i1))-1);
-                if(map2.get(s2.charAt(i1)) == 0){
-                    map2.remove(s2.charAt(i1));
+            if(j - k + 1 > n){
+                if(map2.get(s2.charAt(k)) > 1){
+                    map2.put(s2.charAt(k),map2.get(s2.charAt(k))-1);
+                }else{
+                    map2.remove(s2.charAt(k));
                 }
-                i1++;
+                k++;
             }
-            if(j - i1 + 1 == n){
-                if(map1.equals(map2)){
+            if(n == j - k + 1){
+                if(map2.equals(map1)){
                     return true;
                 }
             }
