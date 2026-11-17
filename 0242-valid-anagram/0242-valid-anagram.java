@@ -23,6 +23,7 @@ class Solution {
             }
             j++;
         }
+
         if(map1.equals(map2)){
             return true;
         }
