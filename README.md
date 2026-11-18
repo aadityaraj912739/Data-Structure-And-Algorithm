@@ -116,4 +116,8 @@ Welcome to my DSA practice repository! Here are my current LeetCode stats:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0268-missing-number/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
