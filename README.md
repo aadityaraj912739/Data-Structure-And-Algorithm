@@ -34,6 +34,7 @@ Welcome to my DSA practice repository! Here are my current LeetCode stats:
 | [0217-contains-duplicate](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0268-missing-number/) | Easy |
 | [0409-longest-palindrome](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0409-longest-palindrome/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -48,6 +49,7 @@ Welcome to my DSA practice repository! Here are my current LeetCode stats:
 | [0217-contains-duplicate](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -56,6 +58,7 @@ Welcome to my DSA practice repository! Here are my current LeetCode stats:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0229-majority-element-ii/) | Medium |
+| [0268-missing-number](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -82,6 +85,7 @@ Welcome to my DSA practice repository! Here are my current LeetCode stats:
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0268-missing-number/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
@@ -90,6 +94,7 @@ Welcome to my DSA practice repository! Here are my current LeetCode stats:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0268-missing-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 ## Sliding Window
@@ -105,4 +110,8 @@ Welcome to my DSA practice repository! Here are my current LeetCode stats:
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0125-valid-palindrome/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
