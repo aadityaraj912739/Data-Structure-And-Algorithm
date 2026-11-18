@@ -52,6 +52,7 @@ Welcome to my DSA practice repository! Here are my current LeetCode stats:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0001-two-sum/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0229-majority-element-ii/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -98,4 +99,8 @@ Welcome to my DSA practice repository! Here are my current LeetCode stats:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0409-longest-palindrome/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
