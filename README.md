@@ -56,6 +56,7 @@ Welcome to my DSA practice repository! Here are my current LeetCode stats:
 | ------- | ------- |
 | [0001-two-sum](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0136-single-number](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0268-missing-number/) | Easy |
@@ -85,6 +86,7 @@ Welcome to my DSA practice repository! Here are my current LeetCode stats:
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0268-missing-number/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
