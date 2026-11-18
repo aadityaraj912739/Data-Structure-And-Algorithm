@@ -21,6 +21,7 @@ Welcome to my DSA practice repository! Here are my current LeetCode stats:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0058-length-of-last-word/) | Easy |
+| [0125-valid-palindrome](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0242-valid-anagram/) | Easy |
 | [0409-longest-palindrome](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0409-longest-palindrome/) | Easy |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
@@ -103,4 +104,5 @@ Welcome to my DSA practice repository! Here are my current LeetCode stats:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
