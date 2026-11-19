@@ -20,6 +20,7 @@ Welcome to my DSA practice repository! Here are my current LeetCode stats:
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0014-longest-common-prefix/) | Easy |
 | [0058-length-of-last-word](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0242-valid-anagram/) | Easy |
@@ -55,6 +56,7 @@ Welcome to my DSA practice repository! Here are my current LeetCode stats:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0217-contains-duplicate/) | Easy |
@@ -124,4 +126,8 @@ Welcome to my DSA practice repository! Here are my current LeetCode stats:
 | [0620-not-boring-movies](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0620-not-boring-movies/) | Easy |
 | [1148-article-views-i](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/1148-article-views-i/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
