@@ -58,6 +58,7 @@ Welcome to my DSA practice repository! Here are my current LeetCode stats:
 | [0001-two-sum](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0229-majority-element-ii/) | Medium |
@@ -130,4 +131,8 @@ Welcome to my DSA practice repository! Here are my current LeetCode stats:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0014-longest-common-prefix/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
