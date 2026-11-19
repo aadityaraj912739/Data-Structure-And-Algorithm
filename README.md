@@ -126,6 +126,7 @@ Welcome to my DSA practice repository! Here are my current LeetCode stats:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0175-combine-two-tables/) | Easy |
+| [0176-second-highest-salary](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0176-second-highest-salary/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0182-duplicate-emails/) | Easy |
 | [0577-employee-bonus](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0577-employee-bonus/) | Easy |
