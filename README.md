@@ -129,6 +129,7 @@ Welcome to my DSA practice repository! Here are my current LeetCode stats:
 | [0620-not-boring-movies](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0620-not-boring-movies/) | Easy |
 | [1148-article-views-i](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/1148-article-views-i/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
