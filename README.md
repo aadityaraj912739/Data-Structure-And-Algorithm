@@ -60,6 +60,7 @@ Welcome to my DSA practice repository! Here are my current LeetCode stats:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0136-single-number/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0268-missing-number/) | Easy |
@@ -115,9 +116,11 @@ Welcome to my DSA practice repository! Here are my current LeetCode stats:
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0125-valid-palindrome/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0268-missing-number/) | Easy |
 ## Database
 | Problem Name | Difficulty |
