@@ -150,4 +150,12 @@ Welcome to my DSA practice repository! Here are my current LeetCode stats:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
