@@ -68,6 +68,7 @@ Welcome to my DSA practice repository! Here are my current LeetCode stats:
 | [0268-missing-number](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0724-find-pivot-index/) | Easy |
@@ -129,6 +130,7 @@ Welcome to my DSA practice repository! Here are my current LeetCode stats:
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0268-missing-number/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0704-binary-search/) | Easy |
 ## Database
 | Problem Name | Difficulty |
