@@ -124,6 +124,7 @@ Welcome to my DSA practice repository! Here are my current LeetCode stats:
 | [0141-linked-list-cycle](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0189-rotate-array/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -161,14 +162,20 @@ Welcome to my DSA practice repository! Here are my current LeetCode stats:
 | [0021-merge-two-sorted-lists](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0141-linked-list-cycle/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/aadityaraj912739/Data-Structure-And-Algorithm/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
